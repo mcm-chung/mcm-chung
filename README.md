@@ -1,8 +1,7 @@
-Hello! 👋
+### Hello! 👋
 
-My name is May
-
-
+I'm currently learning new skills in coding working with _nology to become a tech consultant!
+I am a keen learner and happy to meet new people and connect.
 
 
 
