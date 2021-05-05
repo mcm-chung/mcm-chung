@@ -1,8 +1,18 @@
 ### Hello! 👋
 
 I'm currently learning new skills in coding working with _nology to become a tech consultant!
-I am a keen learner and happy to meet new people and connect.
+I am a keen learner and happy to meet new people and connect!
 
+### Facts about me 🌱
+- sushi lover 
+
+
+
+### Tech Stack
+- Html 
+- CSS
+- Javascript [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+- Sass
 
 
 
