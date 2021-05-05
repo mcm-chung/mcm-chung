@@ -11,7 +11,7 @@ I am a keen learner and happy to meet new people and connect!
 ### Tech Stack
 - Html 
 - CSS
-- Javascript [<img align="right" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+- Javascript <img align="right" alt="Java" width="500px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 
 
